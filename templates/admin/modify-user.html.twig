@@ -3,6 +3,9 @@
 {% block title %}Create Editor{% endblock %}
 
 {% block body %}
+    {% for message in app.flashes('modified') %}
+        {{ message }}
+    {% endfor %}
     {{ form_start(form) }}
     {{ form_row(form.firstName) }}
     {{ form_row(form.lastName) }}

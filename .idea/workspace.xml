@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62863232-5200-4479-a0e8-a995ca260540" name="Default Changelist" comment="" />
+    <list default="true" id="62863232-5200-4479-a0e8-a995ca260540" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Migrations/Version20200203142520.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/modify-user.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/modify-user.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,8 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/symfony-5-tp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -140,15 +148,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symfony-5-tp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates/admin" />
       <recent name="$PROJECT_DIR$/templates/user" />
       <recent name="$PROJECT_DIR$/templates/detail" />
       <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$/src/Controller" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -171,6 +180,8 @@
       <workItem from="1580722141212" duration="1534000" />
       <workItem from="1580724527603" duration="1994000" />
       <workItem from="1580736705041" duration="740000" />
+      <workItem from="1580740489949" duration="1307000" />
+      <workItem from="1580761470662" duration="2440000" />
     </task>
     <servers />
   </component>
@@ -178,10 +189,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="180" width="656" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580722323295">
+    <state x="249" y="180" width="656" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580762759994">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
-    <state x="249" y="180" width="656" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1031.698@67.27.1031.698" timestamp="1580722323295" />
+    <state x="249" y="180" width="656" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1031.698@67.27.1031.698" timestamp="1580762759994" />
     <state x="315" y="133" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1580659743673">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
@@ -190,9 +201,17 @@
       <screen x="67" y="27" width="1031" height="698" />
     </state>
     <state x="365" y="133" width="424" height="484" key="FileChooserDialogImpl/67.27.1031.698@67.27.1031.698" timestamp="1580731200618" />
+    <state x="71" y="27" width="1012" height="698" key="SettingsEditor" timestamp="1580740600837">
+      <screen x="67" y="27" width="1031" height="698" />
+    </state>
+    <state x="71" y="27" width="1012" height="698" key="SettingsEditor/67.27.1031.698@67.27.1031.698" timestamp="1580740600837" />
     <state x="238" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1580724538450">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
     <state x="238" y="202" key="com.intellij.ide.util.TipDialog/67.27.1031.698@67.27.1031.698" timestamp="1580724538450" />
+    <state x="350" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580762570113">
+      <screen x="67" y="27" width="1031" height="698" />
+    </state>
+    <state x="350" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1031.698@67.27.1031.698" timestamp="1580762570113" />
   </component>
 </project>

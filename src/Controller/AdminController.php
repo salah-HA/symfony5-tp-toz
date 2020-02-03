@@ -175,7 +175,7 @@ class AdminController extends AbstractController
         if ($form->isSubmitted() && $form->isValid()) {
             $entityManager->persist($user);
             $entityManager->flush();
-            $this->addFlash('success', 'Utilisateur a bien etait cree');
+            $this->addFlash('success', 'Utilisateur a bien etait créer');
         }
         return $this->render('user/register.html.twig', [
             'form' => $form->createView(),
@@ -192,6 +192,7 @@ class AdminController extends AbstractController
         if ($form->isSubmitted() && $form->isValid()) {
             //$entityManager->persist($videoGame);
             $entityManager->flush();
+            $this->addFlash('modified', 'Utilisateur a bien etait modifier');
         }
         return $this->render('admin/modify-user.html.twig', [
             'form' => $form->createView(),
@@ -207,6 +208,7 @@ class AdminController extends AbstractController
         if($this->isCsrfTokenValid('delete'.$user->getId(), $request->get('token3'))){
             $entityManager->remove($user);
             $entityManager->flush();
+            $this->addFlash('deleted', 'Utilisateur a bien etait modifier');
         }
         return $this->redirectToRoute("home");
     }

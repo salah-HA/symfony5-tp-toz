@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62863232-5200-4479-a0e8-a995ca260540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Migrations/Version20200203142520.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AdminController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/modify-user.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/modify-user.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,11 +148,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates/admin" />
       <recent name="$PROJECT_DIR$/templates/user" />
       <recent name="$PROJECT_DIR$/templates/detail" />
-      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -182,6 +177,10 @@
       <workItem from="1580736705041" duration="740000" />
       <workItem from="1580740489949" duration="1307000" />
       <workItem from="1580761470662" duration="2440000" />
+      <workItem from="1580805727951" duration="5000" />
+      <workItem from="1583227440113" duration="1405000" />
+      <workItem from="1583231080804" duration="762000" />
+      <workItem from="1583232080396" duration="1059000" />
     </task>
     <servers />
   </component>
@@ -197,18 +196,18 @@
       <screen x="67" y="27" width="1031" height="698" />
     </state>
     <state x="315" y="133" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/67.27.1031.698@67.27.1031.698" timestamp="1580659743673" />
-    <state x="365" y="133" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580731200618">
+    <state x="365" y="133" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583232938762">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
-    <state x="365" y="133" width="424" height="484" key="FileChooserDialogImpl/67.27.1031.698@67.27.1031.698" timestamp="1580731200618" />
-    <state x="71" y="27" width="1012" height="698" key="SettingsEditor" timestamp="1580740600837">
+    <state x="365" y="133" width="424" height="484" key="FileChooserDialogImpl/67.27.1031.698@67.27.1031.698" timestamp="1583232938762" />
+    <state x="71" y="27" width="1012" height="698" key="SettingsEditor" timestamp="1583228231159">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
-    <state x="71" y="27" width="1012" height="698" key="SettingsEditor/67.27.1031.698@67.27.1031.698" timestamp="1580740600837" />
-    <state x="238" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1580724538450">
+    <state x="71" y="27" width="1012" height="698" key="SettingsEditor/67.27.1031.698@67.27.1031.698" timestamp="1583228231159" />
+    <state x="238" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1583239676882">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
-    <state x="238" y="202" key="com.intellij.ide.util.TipDialog/67.27.1031.698@67.27.1031.698" timestamp="1580724538450" />
+    <state x="238" y="202" key="com.intellij.ide.util.TipDialog/67.27.1031.698@67.27.1031.698" timestamp="1583239676882" />
     <state x="350" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580762570113">
       <screen x="67" y="27" width="1031" height="698" />
     </state>
